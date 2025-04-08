@@ -30,6 +30,7 @@ Please carefully follow the steps below for each week's gameplay:
   - If you see **"Export failed"**, please send an email to **nana.tian@sec.ethz.ch** with your participant number as the email subject. We will provide further instructions for your next steps.
 
 ![Exporting Data](pics/image-week1-1.png)
+![Exporting Data](pics/image-week1-12.png)
 ![Exporting Data](pics/image-week1-5.png)
 ---
 
