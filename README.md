@@ -46,7 +46,7 @@ After completing Week 1 and Week 2, the **[Week 3]** button will automatically a
 ### 1. Starting the Game:
 - Tap the button labeled **[Week 3]** to enter the game.
 
-![Starting Week 3](pics/image-week1-1.png)
+![Starting Week 3](pics/image-week1-6.png)
 
 ### 2. Participant ID Input:
 - Enter your Participant ID in the following format:
@@ -58,7 +58,7 @@ After completing Week 1 and Week 2, the **[Week 3]** button will automatically a
 - Play the game until you reach the final **Done** button.
 - After pressing **Done**, you will be returned to the main screen.
 
-![Week 3 Gameplay](pics/image-week1-1.png)
+![Week 3 Gameplay](pics/image-week1-7.png)
 
 ### 4. Exporting Your Data:
 - On the main screen, tap the **EXPORT** button.
@@ -66,4 +66,4 @@ After completing Week 1 and Week 2, the **[Week 3]** button will automatically a
   - If you see **"Export successful"**, your data has been successfully recorded and sent to us!
   - If you see **"Export failed"**, please send an email to **nana.tian@sec.ethz.ch** with your participant number as the email subject. We will provide further instructions for your next steps.
 
-![Exporting Week 3 Data](pics/image-week1-4.png)
+![Exporting Week 3 Data](pics/image-week1-7.png)
