@@ -64,5 +64,5 @@ After completing Week 1 and Week 2, the **[Week 3]** button will automatically a
   - If you see **"Export successful"**, your data has been successfully recorded and sent to us!
   - If you see **"Export failed"**, please send an email to **nana.tian@sec.ethz.ch** with your participant number as the email subject. We will provide further instructions for your next steps.
 ![Week 3 Gameplay](pics/image-week1-7.png)
-![Week 3 Gameplay](pics/image-week1-8.png)
-![Exporting Week 3 Data](pics/image-week1-9.png)
+![Week 3 Gameplay](pics/image-week1-9.png)
+![Exporting Week 3 Data](pics/image-week1-8.png)
