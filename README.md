@@ -23,8 +23,8 @@ Please carefully follow the steps below for each week's gameplay:
 
 ![Gameplay](pics/image-week1-1.png)
 
-### 4. Exporting Your Data:
-- On the main screen, tap the **EXPORT** button.
+### 4. Exporting Your Data: [!!!Ensure your internet connectivity of your iPAD when hit this button!!!]
+- On the main screen, tap the **EXPORT** button. You will found the button turns into a **Uploading...** Status. 
 - A pop-up message will appear:
   - If you see **"Export successful"**, your data has been successfully recorded!
   - If you see **"Export failed"**, please send an email to **nana.tian@sec.ethz.ch** with your participant number as the email subject. We will provide further instructions for your next steps.
