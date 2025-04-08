@@ -1,4 +1,4 @@
-# mini-SPACE-Experiment-Instructions-
+# mini-SPACE-Experiment-Instructions-At home
 
 ## Instructions for Weeks 1 and 2
 
