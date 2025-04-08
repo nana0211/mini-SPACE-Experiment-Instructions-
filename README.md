@@ -32,7 +32,7 @@ Please carefully follow the steps below for each week's gameplay:
 ![Exporting Data](pics/image-week1-1.png)
 ![Exporting Data](pics/image-week1-12.png)
 ![Exporting Data](pics/image-week1-5.png)
-![Exporting Data](pics/image-week1-10.png)
+![Exporting Data](pics/image-week1-13.png)
 ---
 
 ### 5. Finish the questionnaire with the link below:
@@ -76,3 +76,4 @@ After completing Week 1 and Week 2, the **[Week 3]** button will automatically a
 ![Week 3 Gameplay](pics/image-week1-7.png)
 ![Week 3 Gameplay](pics/image-week1-9.png)
 ![Exporting Week 3 Data](pics/image-week1-8.png)
+![Exporting Data](pics/image-week1-10.png)
