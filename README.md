@@ -36,6 +36,7 @@ Please carefully follow the steps below for each week's gameplay:
 ### 5. Finish the questionnaire with the link below:
 https://secfht.qualtrics.com/jfe/form/SV_9SRH9IYsAv0gtCK
 
+![Questionnaire Data](pics/image-week1-11.png)
 
 ## Week 3 Access
 
