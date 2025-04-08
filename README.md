@@ -46,7 +46,7 @@ After completing Week 1 and Week 2, the **[Week 3]** button will automatically a
 ### 1. Starting the Game:
 - Tap the button labeled **[Week 3]** to enter the game.
 
-![Starting Week 3](pics/image-week1-6.png)
+![Starting Week 3](pics/image-week1-7.png)
 
 ### 2. Participant ID Input:
 - Enter your Participant ID in the following format:
