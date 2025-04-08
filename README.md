@@ -32,6 +32,7 @@ Please carefully follow the steps below for each week's gameplay:
 ![Exporting Data](pics/image-week1-1.png)
 ![Exporting Data](pics/image-week1-12.png)
 ![Exporting Data](pics/image-week1-5.png)
+![Exporting Data](pics/image-week1-10.png)
 ---
 
 ### 5. Finish the questionnaire with the link below:
