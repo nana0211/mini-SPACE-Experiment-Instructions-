@@ -37,7 +37,7 @@ Please carefully follow the steps below for each week's gameplay:
 
 After completing Week 1 and Week 2, the **[Week 3]** button will automatically appear when you return to the main screen.
 
-![Week 3 Button Appears](path/to/image-week3-button.png)
+![Week 3 Button Appears](pics/image-week1-7.png)
 
 ---
 
