@@ -21,7 +21,7 @@ Please carefully follow the steps below for each week's gameplay:
 - Play the game until you reach the final **Done** button.
 - After pressing **Done**, you will be returned to the main screen.
 
-![Gameplay](path/to/image-week1-5.png)
+![Gameplay](pics/image-week1-1.png)
 
 ### 4. Exporting Your Data:
 - On the main screen, tap the **EXPORT** button.
