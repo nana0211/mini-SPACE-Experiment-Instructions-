@@ -15,6 +15,7 @@ Please carefully follow the steps below for each week's gameplay:
   - **Week 2:** `PXXX_2` (e.g., `P001_2`)
 
 ![Participant ID Input](pics/image-week1-2.png)
+![Participant ID Input](pics/image-week1-3.png)
 
 ### 3. Gameplay:
 - Play the game until you reach the final **Done** button.
