@@ -78,7 +78,7 @@ After completing Week 1 and Week 2, the **[Week 3]** button will automatically a
 ![Exporting Week 3 Data](pics/image-week1-8.png)
 ![Exporting Data](pics/image-week1-10.png)
 
-### 5. Finish the questionnaire with the link below:
+### 5. Again, Finish the questionnaire with the link below:
 https://secfht.qualtrics.com/jfe/form/SV_9SRH9IYsAv0gtCK
 
 For each week, you have to choose your week number properly. (For example, Week 1 you choose 1. Week 2 you choose 2. Week 3 you choose 3.)
