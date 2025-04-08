@@ -20,7 +20,7 @@ Please carefully follow the steps below for each week's gameplay:
 - Play the game until you reach the final **Done** button.
 - After pressing **Done**, you will be returned to the main screen.
 
-![Gameplay](path/to/image-week1-3.png)
+![Gameplay](path/to/image-week1-5.png)
 
 ### 4. Exporting Your Data:
 - On the main screen, tap the **EXPORT** button.
@@ -28,7 +28,7 @@ Please carefully follow the steps below for each week's gameplay:
   - If you see **"Export successful"**, your data has been successfully recorded!
   - If you see **"Export failed"**, please send an email to **nana.tian@sec.ethz.ch** with your participant number as the email subject. We will provide further instructions for your next steps.
 
-![Exporting Data](path/to/image-week1-4.png)
+![Exporting Data](path/to/image-week1-1.png)
 
 ---
 
