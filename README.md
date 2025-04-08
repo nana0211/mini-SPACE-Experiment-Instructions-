@@ -7,7 +7,7 @@ Please carefully follow the steps below for each week's gameplay:
 ### 1. Starting the Game:
 - Tap the button labeled **[Week 1 & 2]** to enter the game.
 
-![Starting the Game](path/to/image-week1-1.png)
+![Starting the Game](pics/image-week1-1.png)
 
 ### 2. Participant ID Input:
 - Enter your Participant ID in the following format:
