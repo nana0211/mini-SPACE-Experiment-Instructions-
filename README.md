@@ -33,6 +33,10 @@ Please carefully follow the steps below for each week's gameplay:
 ![Exporting Data](pics/image-week1-5.png)
 ---
 
+### 5. Finish the questionnaire with the link below:
+https://secfht.qualtrics.com/jfe/form/SV_9SRH9IYsAv0gtCK
+
+
 ## Week 3 Access
 
 After completing Week 1 and Week 2, the **[Week 3]** button will automatically appear when you return to the main screen.
