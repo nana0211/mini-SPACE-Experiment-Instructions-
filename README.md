@@ -52,7 +52,7 @@ After completing Week 1 and Week 2, the **[Week 3]** button will automatically a
 - Enter your Participant ID in the following format:
   - **Week 3:** `PXXX_3` (e.g., `P001_3`)
 
-![Week 3 ID Input](pics/image-week1-3.png)
+![Week 3 ID Input](pics/image-week1-4.png)
 
 ### 3. Gameplay:
 - Play the game until you reach the final **Done** button.
