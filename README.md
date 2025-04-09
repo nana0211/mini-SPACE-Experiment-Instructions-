@@ -41,7 +41,7 @@ https://secfht.qualtrics.com/jfe/form/SV_9SRH9IYsAv0gtCK
 For each week, you have to choose your week number properly. (For example, in Week 1, you choose "Week 1", in Week 2, you choose "Week 2", and in Week 3, you choose "Week 3.")
 ![Questionnaire Data](pics/image-week1-11.png)
 
-[!!! After you complete the first week's questionnaire, you have to refresh the link in your web browser to start a new one!!!]
+<strong style="color: red;">[!!! After you complete the first week's questionnaire, you have to refresh the link in your web browser to start a new one!!!]</strong>
 
 ## Week 3 Access
 
