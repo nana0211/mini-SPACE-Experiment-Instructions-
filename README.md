@@ -1,4 +1,4 @@
-# mini-SPACE-Experiment-Instructions-At home
+# mini-SPACE-Experiment-Instructions-At home 【iPad Password: 123456】
 
 ## Instructions for Weeks 1 and 2
 
